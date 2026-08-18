@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="22" fill="#0f381e" />
+  <path d="M 50 20 L 80 50 L 72 50 L 50 28 L 28 50 L 20 50 Z" fill="#f5b000" />
+  <rect x="30" y="55" width="40" height="6" rx="2" fill="#ffffff" />
+  <rect x="25" y="65" width="50" height="6" rx="2" fill="#f5b000" />
+  <text x="50" y="47" font-family="sans-serif" font-weight="900" font-size="18" fill="#ffffff" text-anchor="middle">JP</text>
+</svg>

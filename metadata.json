@@ -1,0 +1,6 @@
+{
+  "name": "JP Carpintaria",
+  "description": "Aplicativo PWA profissional para orçamentos de carpintaria, planta baixa 2D e maquete 3D interativa em tempo real, quantitativo automático de madeira e envio de proposta via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
